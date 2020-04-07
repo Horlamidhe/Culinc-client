@@ -6,7 +6,7 @@ import App from './App'
 
 
 const client = new ApolloClient({
-  uri: 'http://localhost:4000',
+  uri: 'https://afternoon-dusk-79716.herokuapp.com/',
 });
 
 
