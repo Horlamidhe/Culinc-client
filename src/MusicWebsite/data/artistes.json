@@ -1,0 +1,82 @@
+{
+    "artistes": [
+        {
+            "name":"PHYL",
+            "image":"eternal.jpg",
+            "description":"apigbgbwowrubwugoaughwebgubwruhgryuuuuuuuuuuuuuuwgeihwbfguygweyuwyuwghvyubweyubwev"
+        },
+        {
+            "name":"BizzOnTheTrack",
+            "image":"george.jpg",
+            "description":"eipjgbeugbergberiuhogauhguwghsethehhestttttttttttthetssssssssssssssshetssssssshhh"
+        },
+        {
+            "name":"Wizkid",
+            "image":"joel.jpg",
+            "description":"erhtttdgzsergoehpuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuhajeiiiiiiiiiiiiiiiiiiiahjets9hit"
+        },
+        {
+            "name":"PHYL",
+            "image":"george.jpg",
+            "description":"rpinjejggwgpgrarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrjpgyqeeeeeeeeeeeeeeeeeegr8eeeeeeeeeeeee"
+        },
+        {
+            "name":"Paul",
+            "image":"george.jpg",
+            "description":"rpinjejggwgpgrarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrjpgyqeeeeeeeeeeeeeeeeeegr8eeeeeeeeeeeee"
+        },
+        {
+            "name":"D'banj",
+            "image":"george.jpg",
+            "description":"rpinjejggwgpgrarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrjpgyqeeeeeeeeeeeeeeeeeegr8eeeeeeeeeeeee"
+        } ,
+        {
+            "name":"Psquare",
+            "image":"george.jpg",
+            "description":"rpinjejggwgpgrarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrjpgyqeeeeeeeeeeeeeeeeeegr8eeeeeeeeeeeee"
+        } ,
+        {
+            "name":"Iyanya",
+            "image":"george.jpg",
+            "description":"rpinjejggwgpgrarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrjpgyqeeeeeeeeeeeeeeeeeegr8eeeeeeeeeeeee"
+        } 
+    ],
+    "songs": [
+        { 
+            "artists":"PHYL",
+            "art":"ifyouonlyknew.jpg",
+            "title":"SHigh",
+            "links":  {
+                "spotify": "https://open.spotify.com",
+                "soundcloud":"#"
+            }      
+        },
+        { 
+            "artists":"PHYL",
+            "art":"ifyouonlyknew.jpg",
+            "title":"SHigh",
+            "links":  {
+                "spotify": "https://open.spotify.com",
+                "soundcloud":"#"
+            }      
+        },
+        { 
+            "artists":"PHYL",
+            "art":"ifyouonlyknew.jpg",
+            "title":"SHigh",
+            "links":  {
+                "spotify": "https://open.spotify.com",
+                "soundcloud":"#"
+            }      
+        },
+        { 
+            "artists":"PHYL",
+            "art":"ifyouonlyknew.jpg",
+            "title":"SHigh",
+            "links":  {
+                "spotify": "https://open.spotify.com",
+                "soundcloud":"#"
+            }      
+        }
+    ]
+}
