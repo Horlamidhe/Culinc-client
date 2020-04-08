@@ -1,5 +1,4 @@
 import React from 'react'
-import '../bootstrap/dist/css/bootstrap.min.css'
 import {BrowserRouter as Router,Route} from 'react-router-dom'
 import { useQuery,useMutation } from '@apollo/react-hooks';
 import { gql } from 'apollo-boost';
