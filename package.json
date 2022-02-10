@@ -57,7 +57,7 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   },
   "proxy": "https://afternoon-dusk-79716.herokuapp.com/"
 }
